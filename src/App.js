@@ -1,6 +1,4 @@
-/* eslint-disable no-undef */
 import React from "react";
-//import logo from "./logo.jpg";
 import "./App.css";
 import PageHeading from "./components/PageHeading";
 import AddBlockButton from "./components/AddBlockButton";

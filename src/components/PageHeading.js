@@ -16,7 +16,7 @@ function PageHeading() {
         rel="stylesheet"
       />
       <nav className="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="null">
           Blockchain Demo
         </a>
       </nav>
@@ -28,10 +28,7 @@ function PageHeading() {
             <img src={logo} width="170" height="150" alt="logo" />
 
             <p>
-              This is a template for a simple marketing or informational
-              website. It includes a large callout called a jumbotron and three
-              supporting pieces of content. Use it as a starting point to create
-              something more unique.
+              By Jason Lefever, Mitali Sanwal, Shreyansh Vyas, and Sirui Wang
             </p>
           </div>
         </div>
